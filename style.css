@@ -1,0 +1,46 @@
+.box {
+background-color: rgb(100, 73, 221);
+margin: 5vh auto;
+width: 40vw;
+height: 50vh;
+border-radius: 6px;
+box-shadow: 12px 12px darkblue;
+}
+.box h1{
+color: white;
+font-family: sans-serif;
+letter-spacing: 2px;
+text-align: center;
+}
+.box h3  {
+margin-top: 5vh;
+line-height: 5vh;
+border-radius: 6px;
+color: white;
+margin-left: 5px;
+text-align: center;
+width: 80%;
+height: 5vh;
+background-color:rgba(0, 0, 0, 0.4)
+}
+
+.box h4 {
+line-height: 5vh;
+border-radius: 6px;
+text-align: center;
+margin-left: 5px;
+width: 40%;
+background-color: azure;
+color:grey;
+min-height: 5vh;
+}
+.lucchetto {
+width: 5vw;
+height: 8vh;
+margin-left: 50%;
+transform: translate(-50%);
+}
+.lucchetto i {
+color:  white;
+font-size: 70px;
+}
